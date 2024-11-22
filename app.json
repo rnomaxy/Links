@@ -14,7 +14,8 @@
       "backgroundColor": "#09090B"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+       "backgroundColor": "#09090B"
     },
     "android": {
       "adaptiveIcon": {
@@ -25,7 +26,8 @@
     "web": {
       "bundler": "metro",
       "output": "static",
-      "favicon": "./assets/images/favicon.png"
+       "backgroundColor": "#09090B! important",
+      "favicon": "./assets/images/favicon.png"    
     },
     "plugins": [
       "expo-router"

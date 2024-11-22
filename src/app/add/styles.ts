@@ -19,7 +19,7 @@ export const styles = StyleSheet.create({
     },
     label:{
         color: colors.gray[400],
-        fontSize:24,
+        fontSize: 15,
         paddingHorizontal: 24,
     },
     form:{
